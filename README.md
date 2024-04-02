@@ -1,2 +1,2 @@
-# formations-ia-automatants
-Formations IA by Automatants
+# Formations IA by Automatants
+
